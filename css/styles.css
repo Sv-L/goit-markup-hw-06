@@ -315,6 +315,7 @@ color: var(--subtle-text-color);
 }
 
 .input{
+  margin-top: 4px;
 padding: 8px 38px;
 width: 100%;
 border: 1px solid rgba(33, 33, 33, 0.2);
@@ -352,6 +353,7 @@ border-color: #4D5AE5;
 }
 
 .textarea{
+  margin-top: 4px;
   padding: 8px 16px;
   resize: none;
   overflow: auto;
@@ -378,6 +380,16 @@ color: var(--privacy-policy-text-color);
 .link-privacy-policy{
   color: var(--primary-brand-color);
 }
+
+.check-input {
+
+}
+
+
+
+
+
+
 
 .modal-send-btn{
   
