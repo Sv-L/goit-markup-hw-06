@@ -555,7 +555,7 @@ img {
 }
 
 .projects-item:is(:hover, :focus) .projects-description {
-  transform: translateY(-100%);
+  transform: translateY(-101%);
 }
 /*---------------MODAL---------------------*/
 
